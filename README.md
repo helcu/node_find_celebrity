@@ -22,7 +22,7 @@ The project can be executed using the next command:
 
 ### Celebrity Graph
 
-![classdiagram](images/graph.PNG)
+![classdiagram](https://raw.githubusercontent.com/migvz/node_find_celebrity/main/images/graph.png)
 
 The algorithm should find the person with id `4` 
 
