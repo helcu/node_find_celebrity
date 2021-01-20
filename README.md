@@ -5,9 +5,7 @@
 In a team of n people, a celebrity is known by everyone but he/she doesn't know anybody.
 
 The most important of this project is the algorithm used to solve the problem. There are two approach an imperative
-and other functional method to resolve this problem. You can configure the algorithm modifying the `approach` property in
-the `application.yml` by default this property is `Imperative`
-
+and other functional method to resolve this problem.
 ## Prerequisites
 
 Only it is necessary to have installed node
@@ -40,7 +38,7 @@ Check the result through of the next url
 `
 {
     "id": 4,
-    "peopleKnown": []
+    "knownPeople": [2, 5, 6]
 }
 `
 ## Others

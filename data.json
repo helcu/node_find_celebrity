@@ -1,0 +1,10 @@
+{
+  "data": [
+    { "id": 1, "knownPeople": [2, 3, 4, 5, 6] },
+    { "id": 2, "knownPeople": [2, 4] },
+    { "id": 3, "knownPeople": [2, 4, 6] },
+    { "id": 4, "knownPeople": [2, 5, 6] },
+    { "id": 5, "knownPeople": [4] },
+    { "id": 6, "knownPeople": [2, 5, 4] }
+  ]
+}
